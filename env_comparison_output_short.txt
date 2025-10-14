@@ -1,0 +1,20 @@
+Package                        .napari_sam_MIC-DKFZ  .napari_sam_v2                   .venv         napari_env  
+marimo                         ❌             ❌                                0.16.2        ❌  
+
+cellpose                       ❌             ❌                                4.0.6         4.0.7       
+cellpose-napari                ❌             ❌                                ❌             0.2.0
+ 
+napari                         0.4.17        0.6.4                            ❌             0.6.4       
+napari-console                 0.1.3         0.1.3                            ❌             0.1.3       
+napari-nifti                   0.0.17        ❌                                ❌             ❌           
+napari-plugin-engine           0.2.0         0.2.0                            ❌             0.2.0       
+napari-plugin-manager          0.1.6         0.1.6                            ❌             0.1.6       
+napari-sam                     0.4.13        ❌                                ❌             ❌           
+napari-samv2                   ❌             0.1.3.dev0+g9a90de184.d20251013  ❌             ❌           
+napari-svg                     0.2.1         0.2.1                            ❌             0.2.1   
+numpy                          1.26.4        2.1.2                            2.1.2         2.2.6
+pydantic                       1.10.13       2.11.9                           2.11.9        2.11.9 
+pyqt5                          5.15.11       5.15.11                          ❌             5.15.11
+pyqt6                          ❌             ❌                                6.9.1         ❌  
+sam-2                          ❌             1.0                              ❌             ❌ 
+vispy                          0.11.0        0.15.2                           ❌             0.15.2 

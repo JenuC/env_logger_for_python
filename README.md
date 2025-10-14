@@ -13,5 +13,5 @@
 
 - del_torch_me.py
     quick check on a single env for cuda and a few modules
-
+    ** ONLY WRITES IF THERE IS A MISMATCH **
 

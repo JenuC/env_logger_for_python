@@ -1,0 +1,18 @@
+napari version: 0.6.4
+vispy version: 0.15.2
+cellpose: Not installed
+segment-anything: Not installed
+napari-sam: Not installed
+micro-sam: Not installed
+sam: Not installed
+sam2: Not installed
+flimlib: Not installed
+numpy version: 2.1.2
+pydantic version: 2.11.9
+magicgui version: 0.10.1
+torch version: 2.7.1+cu118
+
+Torch version: 2.7.1+cu118
+CUDA available: True
+CUDA version: 11.8
+GPU: Quadro RTX 4000
